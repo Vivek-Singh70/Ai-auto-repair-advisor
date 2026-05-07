@@ -73,3 +73,4 @@ AI-auto-repair-advisor/
 │   └── package.json
 │
 └── README.md
+<img width="284" height="403" alt="image" src="https://github.com/user-attachments/assets/f06cf315-72ee-4323-a77c-bd82232d6081" />
